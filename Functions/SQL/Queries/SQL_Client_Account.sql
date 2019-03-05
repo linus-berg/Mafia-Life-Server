@@ -1,0 +1,1 @@
+SELECT UID FROM clients WHERE UID = '%1'

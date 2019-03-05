@@ -1,0 +1,3 @@
+Ability to reload majority of systems through SQL in admin tool.
+Pass NetId check if in admin DB if not then kick player.
+else execute reload. Lock all calls and wait for server to be done reloading.

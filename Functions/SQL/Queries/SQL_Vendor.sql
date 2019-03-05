@@ -1,0 +1,9 @@
+SELECT
+	Name,
+	NPC,
+	Side,
+	BoxCreate,
+	VehicleCreate,
+	Marker
+FROM
+	Vendors
